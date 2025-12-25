@@ -1,0 +1,21 @@
+body {
+  /* background-color: skyblue; */
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th {
+  padding: 10px;
+  background-color: red;
+}
+ul {
+  border: solid 1px;
+  width: fit-content;
+  padding: 10px;
+  margin: 15px 0px 15px 0px;
+  background-color: white;
+}
